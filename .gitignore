@@ -1,0 +1,8 @@
+# Let's remove these from commits
+
+*.bak
+*.log
+*.php
+*.psd
+*.tmp
+
