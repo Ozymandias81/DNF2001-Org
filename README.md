@@ -6,6 +6,8 @@ If you want to edit your windowed/fullscreen resolutions and settings, check ins
 DukeForever.ini file inside the folder of your Profile name. My monitor can't handle more than 1280x1024, but you will find those
 values under Engine.WindowsClient list. You might also attempt to play with D3DDrv.D3DRenderDevice settings.
 
+Supposedly offending resources or unauthorized images have been removed from the original leak, which were ColeTheme / WiederTheme.dtx and ColeTheme / WiederTheme.mds . Will be replaced at some point.
+
 # Content #
 - August 21
     System files only, install on top of October build.

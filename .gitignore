@@ -6,3 +6,13 @@
 *.psd
 *.tmp
 
+# Then ignore these folders
+
+_Removed/*
+/Stable/Players/*
+/Stable/System/DukeForever.log
+/Stable/System/Detected.log
+/Stable/System/UCC.log
+/Unstable/System/DukeForever.log
+/Unstable/System/Detected.log
+/Unstable/System/UCC.log
