@@ -1,3 +1,75 @@
+                     ████████
+               ████████████████████
+           ████████████████████████████
+         ████████████████████████████████
+       ██████    ████████████████    ██████
+     ██████      ████████████████      ██████
+     ████          ████████████          ████
+   ████            ████████████            ████
+   ████              ████████              ████
+   ████              ████████              ████
+ ████              ████    ████              ████
+ ████              ██        ██              ████
+ ████████████████████        ████████████████████
+ ██████████████████████    ██████████████████████
+   ████████████████████████████████████████████
+   ██████████████████        ██████████████████
+   ████████████████            ████████████████
+     ██████████████            ██████████████
+     ████████████                ████████████
+       ██████████                ██████████
+         ██████                    ██████
+           ██████████        ██████████
+               ████████████████████
+                     ████████
+
+                 x0r_jmp PRESENTS
+   D U K E   N U K E M   F O R E V E R   2 0 0 1
+                   ╔═══════════╗
+ ╔═════════════════╣ GAME INFO ╠═════════════════╗
+ ║                 ╚═══════════╝                 ║
+ ║ Duke Nukem Forever brings back the king of    ║
+ ║ action in the highly anticipated game set to  ║
+ ║ pummel players with unprecedented             ║
+ ║ interactivity, variety, realism, and Duke's   ║
+ ║ special whoop-ass brand of humor. The first   ║
+ ║ in-house Duke Nukem game by 3D Realms since   ║
+ ║ Duke Nukem 3D.                                ║
+ ║                                               ║
+ ║ Powered by the latest in Unreal technology,   ║
+ ║ Duke Nukem Forever delivers an intense First  ║
+ ║ Person Shooter experience, with stunningly    ║
+ ║ detailed characters in expansive interactive  ║
+ ║ maps. Motion captured animation and realistic ║
+ ║ area-sensitive damage take realism to scary   ║
+ ║ new heights, and make picking off those alien ║
+ ║ bastards all the more fun.                    ║
+ ╚═══════════════════════════════════════════════╝
+                 ╔═══════════════╗
+ ╔═══════════════╣ RELEASE NOTES ╠═══════════════╗
+ ║               ╚═══════════════╝               ║
+ ║ We at x0r_jmp have spent a great deal of time ║
+ ║ producing and procuring fixes to ensure this  ║
+ ║ piece of gaming history can be preserved and  ║
+ ║ enjoyed on modern systems.                    ║
+ ║                                               ║
+ ║ All of these fixes can be obtained from the   ║
+ ║ 'Patches' directory included in the release.  ║
+ ║                                               ║
+ ║ Full source code is included, and can be      ║
+ ║ compiled by following the steps that we have  ║
+ ║ outlined in the 'BUILDING.txt' file.          ║
+ ╚═══════════════════════════════════════════════╝
+                   ╔═══════════╗
+ ╔═════════════════╣ THANKS TO ╠═════════════════╗
+ ║                 ╚═══════════╝                 ║
+ ║ * The original 3D Realms for making the game. ║
+ ║ * Everyone who made this possible.            ║
+ ╚═══════════════════════════════════════════════╝
+
+ YOU MAY NEVER KNOW US, BUT NEVER FORGET OUR GIFTS
+                ALWAYS BET ON DUKE
+
 # Welcome to Original Duke Nukem Forever 2001 Leak #
 
 This version uses files leaked on 08/05/2002 at https://archive.org/details/duke-nukem-forever-2001-leak . 
