@@ -72,7 +72,7 @@
 
 # Welcome to Original Duke Nukem Forever 2001 Leak #
 
-This version uses files leaked on 08/05/2002 at https://archive.org/details/duke-nukem-forever-2001-leak . 
+This version uses files leaked on 08/05/2002 at https://archive.org/details/duke-nukem-forever-2001-leak .
 
 If you want to edit your windowed/fullscreen resolutions and settings, check inside Stable-Unstable/Players folder and edit the
 DukeForever.ini file inside the folder of your Profile name. My monitor can't handle more than 1280x1024, but you will find those
